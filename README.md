@@ -12,4 +12,4 @@ Supported chips:
 
 ## How to use
 
-See atsame5x_cpm_app.
+See [atsame53_example_app](https://github.com/JitterCompany/atsame53_example_app).
